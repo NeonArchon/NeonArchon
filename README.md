@@ -2,8 +2,7 @@
 ## 💻 Programador en formacion! 💻
 ## Busco progresar para algun dia crear un videojuego
 ## 🤓 Me gustan cosa "friki" como videojuegos,Warhammer , YuGiOh y Magic 🤓
-![banner placeholder. Es mi carta favotire del Magic](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fnbeurfz7q1821.jpg)
-
+![banner placeholder. Es mi carta favotire del Magic](https://i0.wp.com/mtgazone.com/wp-content/uploads/2020/11/Hydroid-Krasis.jpg?fit=1024%2C576&ssl=1)
 
 <!--
 **NeonArchon/NeonArchon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
